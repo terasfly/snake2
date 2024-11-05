@@ -60,7 +60,7 @@ html {
 
 canvas {
     border: rgba(0, 0, 0, 0.8);
-    background: url('/img/ground2.png') no-repeat center;
+    background: url('img/ground2.png') no-repeat center;
     background-size: cover;
     box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.75);
     image-rendering: pixelated;
